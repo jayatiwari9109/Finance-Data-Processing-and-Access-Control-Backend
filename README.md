@@ -1,2 +1,10 @@
-# Finance-Data-Processing-and-Access-Control-Backend
-Backend system for managing financial data with dashboard analytics using Node.js, Express, and MongoDB.
+# Finance Backend
+
+## Setup
+npm install
+npm start
+
+## APIs
+POST /api/records
+GET /api/records
+GET /api/dashboard
